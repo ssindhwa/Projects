@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -Wall  -fdiagnostics-color=always -fvisibility-inlines-hidden -g -shared -Wl,-soname,libLibcPolicy.so -o lib/libLibcPolicy.so CMakeFiles/LibcPolicy.dir/LibcCallGraph.cpp.o   -L/usr/lib/llvm-18/lib
