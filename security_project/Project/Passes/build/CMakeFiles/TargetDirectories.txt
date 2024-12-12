@@ -1,0 +1,8 @@
+/home/dev/Project/Passes/build/CMakeFiles/intrinsics_gen.dir
+/home/dev/Project/Passes/build/CMakeFiles/omp_gen.dir
+/home/dev/Project/Passes/build/CMakeFiles/acc_gen.dir
+/home/dev/Project/Passes/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/dev/Project/Passes/build/CMakeFiles/LibcPolicy.dir
+/home/dev/Project/Passes/build/CMakeFiles/Inst.dir
+/home/dev/Project/Passes/build/CMakeFiles/edit_cache.dir
+/home/dev/Project/Passes/build/CMakeFiles/rebuild_cache.dir
