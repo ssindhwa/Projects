@@ -1,8 +1,0 @@
-/home/sakshi/Project/Passes/build/CMakeFiles/intrinsics_gen.dir
-/home/sakshi/Project/Passes/build/CMakeFiles/omp_gen.dir
-/home/sakshi/Project/Passes/build/CMakeFiles/acc_gen.dir
-/home/sakshi/Project/Passes/build/CMakeFiles/RISCVTargetParserTableGen.dir
-/home/sakshi/Project/Passes/build/CMakeFiles/LibcPolicy.dir
-/home/sakshi/Project/Passes/build/CMakeFiles/Inst.dir
-/home/sakshi/Project/Passes/build/CMakeFiles/edit_cache.dir
-/home/sakshi/Project/Passes/build/CMakeFiles/rebuild_cache.dir
