@@ -1,0 +1,17 @@
+                 w _ITM_deregisterTMCloneTable
+                 w _ITM_registerTMCloneTable
+                 w __cxa_finalize@GLIBC_2.2.5
+                 w __gmon_start__
+                 U __isoc99_scanf@GLIBC_2.7
+                 U __libc_start_main@GLIBC_2.34
+                 U brk@GLIBC_2.2.5
+                 U connect@GLIBC_2.2.5
+                 U dup@GLIBC_2.2.5
+                 U getpid@GLIBC_2.2.5
+                 U pipe@GLIBC_2.2.5
+                 U printf@GLIBC_2.2.5
+                 U read@GLIBC_2.2.5
+                 U socket@GLIBC_2.2.5
+                 U syscall@GLIBC_2.2.5
+                 U uname@GLIBC_2.2.5
+                 U write@GLIBC_2.2.5

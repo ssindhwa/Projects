@@ -1,0 +1,14 @@
+__cxa_finalize
+__isoc99_scanf
+__libc_start_main
+brk
+connect
+dup
+getpid
+pipe
+printf
+read
+socket
+syscall
+uname
+write
