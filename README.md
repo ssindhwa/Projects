@@ -11,6 +11,4 @@ Implementation of a tool to perform null dereference analysis of Java program us
 
 Resume ----->>>>> sakshi_resume_oc.pdf https://github.com/ssindhwa/Projects/blob/64628687ba91e73e6402a16d0654f7b4cae7d0c6/sakshi_resume_oc.pdf
 
-My Leetcode Profile ----->>>>>  https://leetcode.com/u/ssindhwa/
-
 My Linkedin Profile ----->>>>>  https://www.linkedin.com/in/sakshi-sindhwal-507b39190/
